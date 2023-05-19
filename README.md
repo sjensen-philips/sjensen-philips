@@ -5,7 +5,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-★★★★-white?labelColor=E34F26&logo=html5&style=flat_square&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-★★★★-white?labelColor=3776AB&logo=php&style=flat_square&logoColor=white)
 ![OracleSQL](https://img.shields.io/badge/OracleSQL-★★★-white?labelColor=F80000&logo=databricks&style=flat_square&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-★★-white?labelColor=2F2625&logo=c-sharp&style=flat_square&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-★★-white?labelColor=2300599C&logo=c-sharp&style=flat_square&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-★★-white?labelColor=2F2625&logo=coffeescript&style=flat_square&logoColor=white)
 ![python](https://img.shields.io/badge/python-★-white?labelColor=3776AB&logo=Python&style=flat_square&logoColor=white)
 
